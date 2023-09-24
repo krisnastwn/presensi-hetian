@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720114560386",
+    "project_id": "presensi-8ef37",
+    "storage_bucket": "presensi-8ef37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720114560386:android:d3f3bdbe590847edb3f39b",
+        "android_client_info": {
+          "package_name": "com.example.presensi_hetian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGH_QMFbeZ-xWjvkKK2Uw-HkvgUP0qMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
